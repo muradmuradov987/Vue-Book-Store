@@ -1,0 +1,14 @@
+variables.css import etmek olmur
+
+swiper ve ya bootstrap slider islemir
+
+router-link ile $router.push() ferqi nedir
+
+giftcard sehifesinde catdirilma pulu avtomatik hesablama
+giftcard sehifesinde sekiller islemir ve kartlarin hamisini secmek olmur
+totalda sag terefin tarifini add elemek
+
+bestsellerde ve sehifede nece etmek olarki v-for acnaq 3 ve ya 6 defe donsun
+
+popup bildirisi duzgun etmisemmi
+

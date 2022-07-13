@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "Sidney Sheldon",
+        "author": "Jhon Doe",
+        "discount": true,
+        "oldprice": "122.00",
+        "price": "110.00",
+        "instock": true,
+        "stockcount": 3,
+        "quantity": 1
+
+
+    },
+    {
+        "id": 2,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "Snow Crash",
+        "author": "Hrom Doe",
+        "discount": true,
+        "oldprice": "122.00",
+        "price": "95.00",
+        "instock": false,
+        "stockcount": 3,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "The Hudson",
+        "author": "Jhon Khan",
+        "discount": false,
+        "oldprice": "",
+        "price": "55.00",
+        "instock": false,
+        "stockcount": 0,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "Serpentina",
+        "author": "Actio Lura",
+        "discount": false,
+        "oldprice": "",
+        "price": "82.00",
+        "instock": true,
+        "stockcount": 2,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "The 1916",
+        "author": "Histo Arm",
+        "discount": false,
+        "oldprice": "",
+        "price": "140.00",
+        "instock": true,
+        "stockcount": 0,
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "This Girl",
+        "author": "Bran Huds",
+        "discount": true,
+        "oldprice": "42.00",
+        "price": "30.00",
+        "instock": false,
+        "stockcount": 0,
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "A Gentleman in Moskow",
+        "author": "Gent Muro",
+        "discount": false,
+        "oldprice": "78.00",
+        "price": "60.00",
+        "instock": true,
+        "stockcount": 3,
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "bookimg": "@/assets/img/BookStore/apple_cinema.jpg",
+        "bookname": "The Unwilling",
+        "author": "Daw Gen",
+        "discount": true,
+        "oldprice": "33.00",
+        "price": "23.00",
+        "instock": false,
+        "stockcount": 5,
+        "quantity": 1
+    }
+]

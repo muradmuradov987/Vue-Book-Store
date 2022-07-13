@@ -1,0 +1,32 @@
+[
+    {
+        "giftcardname": "Happy Birtday",
+        "id": "gift__card1",
+        "cardimg": "require(@/assets/img/GiftCards/giftcard1.png)"
+    },
+    {
+        "giftcardname": "International Book Day",
+        "id": "gift__card2",
+        "cardimg": "https://picsum.photos/200/300"
+    },
+    {
+        "giftcardname": "Valentine's Day",
+        "id": "gift__card3",
+        "cardimg": "https://picsum.photos/200/300"
+    },
+    {
+        "giftcardname": "Special Day",
+        "id": "gift__card4",
+        "cardimg": "https://picsum.photos/200/300"
+    },
+    {
+        "giftcardname": "New Year",
+        "id": "gift__card5",
+        "cardimg": "https://picsum.photos/200/300"
+    },
+    {
+        "giftcardname": "Halloween",
+        "id": "gift__card6",
+        "cardimg": "https://picsum.photos/200/300"
+    }
+]
